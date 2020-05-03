@@ -6,6 +6,9 @@ demo link:
 The home page:
 ![image](https://github.com/McRose1/Jupiter/blob/master/images/Home.png)
 
+## Logic Graph of this project 
+![image](/images/logicGraph.png)
+
 
 ## RESTful Design Pattern
 - Using HTTP methods to indicate what kind of operation a client want to take 
@@ -17,3 +20,7 @@ The home page:
 - URL clearly indicates which resource a client want, easy for client side users to understand
 - Server is running in stateless mode, improve scalability 
 
+
+
+## This project is based on TicketMaster API
+![image](/images/tmAPI.png)
